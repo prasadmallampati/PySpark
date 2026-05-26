@@ -1,0 +1,16 @@
+product_id,product_name,brand,rating,stock
+1,Product_1,HP,4.9,85
+2,Product_2,Apple,4.4,132
+3,Product_3,HP,4.1,27
+4,Product_4,HP,3.7,276
+5,Product_5,Dell,2.5,499
+6,Product_6,Apple,4.8,54
+7,Product_7,Dell,4.4,197
+8,Product_8,Lenovo,3.7,224
+9,Product_9,Apple,2.6,443
+10,Product_10,Lenovo,2.9,32
+11,Product_11,Dell,3.5,276
+12,Product_12,HP,4.3,132
+13,Product_13,Lenovo,2.7,372
+14,Product_14,Dell,2.9,305
+15,Product_15,Dell,4.6,480

@@ -1,0 +1,107 @@
+[
+  {
+    "student_id": 1,
+    "name": "Student_1",
+    "course": "PySpark",
+    "marks": 60,
+    "passed": true
+  },
+  {
+    "student_id": 2,
+    "name": "Student_2",
+    "course": "Python",
+    "marks": 57,
+    "passed": true
+  },
+  {
+    "student_id": 3,
+    "name": "Student_3",
+    "course": "Java",
+    "marks": 40,
+    "passed": true
+  },
+  {
+    "student_id": 4,
+    "name": "Student_4",
+    "course": "SQL",
+    "marks": 82,
+    "passed": true
+  },
+  {
+    "student_id": 5,
+    "name": "Student_5",
+    "course": "Java",
+    "marks": 95,
+    "passed": true
+  },
+  {
+    "student_id": 6,
+    "name": "Student_6",
+    "course": "PySpark",
+    "marks": 96,
+    "passed": true
+  },
+  {
+    "student_id": 7,
+    "name": "Student_7",
+    "course": "PySpark",
+    "marks": 95,
+    "passed": false
+  },
+  {
+    "student_id": 8,
+    "name": "Student_8",
+    "course": "SQL",
+    "marks": 86,
+    "passed": true
+  },
+  {
+    "student_id": 9,
+    "name": "Student_9",
+    "course": "Python",
+    "marks": 74,
+    "passed": true
+  },
+  {
+    "student_id": 10,
+    "name": "Student_10",
+    "course": "SQL",
+    "marks": 65,
+    "passed": false
+  },
+  {
+    "student_id": 11,
+    "name": "Student_11",
+    "course": "PySpark",
+    "marks": 94,
+    "passed": true
+  },
+  {
+    "student_id": 12,
+    "name": "Student_12",
+    "course": "PySpark",
+    "marks": 100,
+    "passed": true
+  },
+  {
+    "student_id": 13,
+    "name": "Student_13",
+    "course": "SQL",
+    "marks": 90,
+    "passed": false
+  },
+  {
+    "student_id": 14,
+    "name": "Student_14",
+    "course": "PySpark",
+    "marks": 76,
+    "passed": true
+  },
+  {
+    "student_id": 15,
+    "name": "Student_15",
+    "course": "Python",
+    "marks": 75,
+    "passed": false
+  }
+]
